@@ -14,7 +14,7 @@ const Portfolio = () => {
             />
             <div className="flex justify-between items-center">
               <h4 className="text-lg font-semibold">Blog App</h4>
-              <a href="https://blog-murex-ten-84.vercel.app/" target="_blank">
+              <a href="#" target="_blank">
                 <button className="btn">Preview</button>
               </a>
             </div>
